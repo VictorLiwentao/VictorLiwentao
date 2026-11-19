@@ -1,1 +1,1 @@
-My AI-assisted math research is in [solved-problems](https://github.com/VictorLiwentao/solved-problems).
+Browse my AI-assisted work on open math problems by field in [solved-problems](https://github.com/VictorLiwentao/solved-problems#browse-the-collection). Each draft links to the original question, a proof PDF, and a BibTeX citation.
